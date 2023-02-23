@@ -11,3 +11,6 @@
 -(6) Now create a new file 'test.py' and paste the python program from this directory  
 -(7) Replace the path of input and output files based on the directries created  
 -(8) Run the program and check the output  
+  
+    
+Now this EBS volume can be detached from this instance and attached to another instance where programs are present and made use to process the input files. Also the same could be done by using the EFS files, which could be attached while creating the EC2 Instance.
