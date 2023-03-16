@@ -1,4 +1,5 @@
 # This program will read the input file and convert to CAPS
+# and write to output
 # Open the input file for reading
 with open('my_input_files/input_file.txt', 'r') as input_file:
 
